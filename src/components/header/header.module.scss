@@ -1,0 +1,17 @@
+.header {
+  background-color: rgb(241, 192, 230);
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+
+  h1 {
+    font-size: 2.5rem;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+    -webkit-text-stroke: 1px black;
+    color: transparent;
+  }
+}
