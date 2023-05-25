@@ -2,7 +2,7 @@ import "../../index.scss";
 export function Footer() {
   return (
     <footer className="footer">
-      <h1>Isdi - 2023</h1>
+      <h2>Hola soy un footer to' cutre que usa CSS en plan viejuno</h2>
     </footer>
   );
 }
