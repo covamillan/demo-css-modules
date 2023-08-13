@@ -5,6 +5,7 @@ export function App() {
   return (
     <>
       <Header></Header>
+      <h2>eeee</h2>
       <Footer></Footer>
     </>
   );
